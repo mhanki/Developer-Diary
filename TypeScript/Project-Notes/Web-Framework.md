@@ -1,4 +1,4 @@
-# [Web Framework Project](https://github.com/mhanki/TypeScript-Sandbox/tree/main/web-framework) Notes
+# [Web Framework Project](https://github.com/mhanki/TypeScript-Sandbox/tree/main/projects/web-framework) Notes
 
 **Project structure considerations:**
 
